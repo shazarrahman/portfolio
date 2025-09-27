@@ -96,6 +96,7 @@ img{
     width: 100%;
     object-fit: cover;
 }
+
 /* media query tablet */
 @media screen and (max-width: 1024px){
     .container{
@@ -105,6 +106,7 @@ img{
         margin-top:6rem;
     }
 }
+
 /* media query phone */
 @media screen and (max-width: 600px){
     .container{
@@ -114,47 +116,3 @@ img{
         margin-bottom: 2rem;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

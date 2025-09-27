@@ -22,25 +22,25 @@ const About = () => {
            <article className="about__card">
              <FaAward className="about__icon"/>
              <h5>Experience</h5>
-             <small>6+ Months Work Experience as an Frontend Web Intern</small>
+             <small>1+ years Work Experience as a Full Stack Software Developer</small>
            </article>
            <article className="about__card">
              <FiUsers className="about__icon"/>
              <h5>Companies</h5>
-             <small>•TwoWaits Pvt. Ltd<br/>( 1 + Month Internship )<br/><br/>•LynxArch Technology<br/>( 2 + Month Internship )</small>
+             <small>•Webkul Software<br/>( 5 + Months Full Time )<br/><br/>•Innobit Systems<br/>( 1 + year Full Time )<br/><br/>•TwoWaits Pvt. Ltd<br/>( 1 + Month Internship )<br/><br/>•LynxArch Technology<br/>( 2 + Month Internship )</small>
            </article>
            <article className="about__card">
              <VscFolderLibrary className="about__icon"/>
              <h5>Projects</h5>
-             <small>10+ Projects Completed Using Technologies like<br/>•ReactJS  •HTML5  •CSS3<br/>•JavaScript (ECMA6)  •Bootstrap  •Tailwind</small>
+             <small>10+ Projects Completed Using Technologies like<br/>•PHP  •Laravel  •VueJS<br/>•MySql •ReactJS  •HTML5  •CSS3<br/>•JavaScript (ECMA6)  •Bootstrap  •Tailwind</small>
            </article>
          </div>
 
          <p>
-           Hi There!!! Myself Shazar Rahman currently I'm pursuing my B.Tech in Computer Science and Engineering from Rajkumar Goel Institute of Technology and 
-           Management. I'm an
-         aspiring SDE with excellent problem solving skills and ability to perform well in a team. Passionate about coding and
-enjoy learning new technical skills. Love creating projects using latest technologies.
+          Hi There!!! Myself Shazar Rahman currently I'm working as an Associate Software Engineer in Webkul Software. I have 
+          Experience of 1+ years working in IT Industry, I have done my B.Tech in Computer Science and Engineering from Rajkumar Goel Institute of Technology and 
+          Management. I'm a Full Stack Developer with excellent problem solving skills and ability to perform well in a team. Passionate about coding and
+          enjoy learning new technical skills. Love creating projects using latest technologies.
          </p>
          <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
